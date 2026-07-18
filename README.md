@@ -32,4 +32,4 @@ A **business-savvy technologist** with a peculiar blend of hands-on technical ex
 
 🌍 **Mission**: To build and share technology solutions that inspire, enable growth, and make a lasting impact.  
 
-Public GPG fingerprint: F512BEECE31062BA17F281941A937A3FD6C62D08
+Public GPG fingerprint: B59723F73A056626C5A647F84505B57F6286699B
